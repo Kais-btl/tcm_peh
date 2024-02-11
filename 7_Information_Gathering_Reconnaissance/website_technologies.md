@@ -1,0 +1,11 @@
+- find used technologies to exploit vulnerabilities
+
+- builtwith
+	- https://builtwith.com
+- wappalyzer
+	- https://www.wappalyzer.com
+	- a bit less detailed but faster to use
+- whatweb
+	- kali builtin
+	- https://github.com/urbanadventurer/WhatWeb
+	- ![](assets/Pasted%20image%2020240209153055.png)

@@ -1,0 +1,4 @@
+- searchs vulns for version
+	- [https://www.rapid7.com/db/
+	- https://www.exploit-db.com/
+	- Offline: `searchsploit`
